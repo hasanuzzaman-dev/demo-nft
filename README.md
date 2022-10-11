@@ -11,3 +11,9 @@ REPORT_GAS=true npx hardhat test
 npx hardhat node
 npx hardhat run scripts/deploy.js
 ```
+
+#Install library
+
+1. npm install -g nodemon
+2. npm i hardhat
+3. npm install @openzeppelin/contracts
