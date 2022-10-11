@@ -14,6 +14,12 @@ npx hardhat run scripts/deploy.js
 
 #Install library
 
-1. npm install -g nodemon
-2. npm i hardhat
-3. npm install @openzeppelin/contracts
+```shell
+npm install nodemon
+```
+```shell
+npm i hardhat
+```
+```shell
+npm install @openzeppelin/contracts
+```
